@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Counter2.git/static/css/main.b85adfc7.chunk.css",
+    "main.js": "/Counter2.git/static/js/main.4f95fb39.chunk.js",
+    "main.js.map": "/Counter2.git/static/js/main.4f95fb39.chunk.js.map",
+    "runtime-main.js": "/Counter2.git/static/js/runtime-main.a39a5a1f.js",
+    "runtime-main.js.map": "/Counter2.git/static/js/runtime-main.a39a5a1f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Counter2.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d005beb.chunk.js": "/Counter2.git/static/js/2.8d005beb.chunk.js",
+    "static/js/2.8d005beb.chunk.js.map": "/Counter2.git/static/js/2.8d005beb.chunk.js.map",
+    "index.html": "/Counter2.git/index.html",
+    "precache-manifest.f494217eb52759753f65eb9a67e7e0b7.js": "/Counter2.git/precache-manifest.f494217eb52759753f65eb9a67e7e0b7.js",
+    "service-worker.js": "/Counter2.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Counter2.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b85adfc7.chunk.css.map": "/Counter2.git/static/css/main.b85adfc7.chunk.css.map",
+    "static/js/2.8d005beb.chunk.js.LICENSE.txt": "/Counter2.git/static/js/2.8d005beb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a39a5a1f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8d005beb.chunk.js",
+    "static/css/main.b85adfc7.chunk.css",
+    "static/js/main.4f95fb39.chunk.js"
+  ]
+}
